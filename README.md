@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="1.JPG" alt="Coder GIF" >
-</p>
-
-
-
 <div align = "Center" >
 
  <a href="http://www.linkedin.com/in/miran-mahmoud-616a42217">
